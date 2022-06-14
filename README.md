@@ -1,5 +1,5 @@
-# Ejemplo de Punto-de-Venta
-Este proyecto fue realizado en java, como un ejemplo de un punto de venta, ocupando mysql con base de datos.
+# Ejemplo de Punto de Venta.
+Este proyecto fue realizado en java, como un ejemplo de un punto de venta, ocupando mysql como base de datos.
 ![inicio](https://user-images.githubusercontent.com/81269586/173673842-d539b414-834d-4581-920d-2c3b587d29a7.png)
 ![admin](https://user-images.githubusercontent.com/81269586/173673884-f6cf5a7c-8a51-4856-8fe1-7fbe4a7e2cd7.png)
 ![admin-reg](https://user-images.githubusercontent.com/81269586/173673895-8e2271cd-68d4-4d04-9df8-ae044dc87142.png)
